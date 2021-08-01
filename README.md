@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @NishantRjput
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Html , Css , JavaScript 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ----> Follow My github account -> https://github.com/NishantRjput
+- 📫 How to reach me ⤵️
+- GitHub     ➡️ https://github.com/NishantRjput
+- Instagram  ➡️ https://www.instagram.com/nishantrjput7641/
+- Facebook   ➡️ https://www.facebook.com/people/Nishant-Rajput/100037650797459/
+- LinkedIn   ➡️ https://www.linkedin.com/in/nishant-rajput-a8b5671b9/
 
 <!---
 NishantRjput/NishantRjput is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
